@@ -8,6 +8,10 @@
   /* font-family: var(--kanit); */
 }
 
+:root{
+  --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+}
+
 #main_div {
   margin-top: 14px;
   width: 78%;
@@ -117,3 +121,36 @@
   color: #00b0fb;
   background-color: #fff;
 }
+
+
+  /* ############################################################################### */
+/* Skills section design  */
+
+.heading{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  padding-top: 4%;
+}
+
+/* #skills_section {
+  padding: 0% 6%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+
+#skills_section .icons img{
+  height: 160px;
+  padding: 3% 5%;
+  margin: 2% 1%;
+}
+
+#skills_section .icons img:hover{
+  box-shadow: var(--box-shadow);
+  transform: scale(1.2);
+}
+
