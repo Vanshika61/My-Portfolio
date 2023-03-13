@@ -5,7 +5,11 @@
     }
 }
 
-
+@media screen and (min-width: 1545px){
+  #skills_section .icons img{
+    width: 15rem;
+  }
+}
 /* Media query */
 
 @media screen and (max-width: 1085px) {
