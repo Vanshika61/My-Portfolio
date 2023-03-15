@@ -10,7 +10,7 @@ export default function Project(props) {
       <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div className="col">
           <div className="card shadow-sm">
-            <svg className="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="TextUtils.png" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+            <img width="100%" height="225" src="TextUtils.png" alt="" />
             <div className="card-body">
                 <p className="project_title">{props.projectName1}</p>
               <p className="card-text">This website is a utility which can be used to manipulate your text in the way you want.</p>
@@ -25,7 +25,7 @@ export default function Project(props) {
         </div>
         <div className="col">
           <div className="card shadow-sm">
-            <svg className="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="foodhub.png" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+          <img width="100%" height="225" src="foodhub.png" alt="" />
             <div className="card-body">
             <p className="project_title">{props.projectName2}</p>
               <p className="card-text">A dynamic website that allows anybody to order their favourite food.</p>
@@ -40,7 +40,7 @@ export default function Project(props) {
         </div>
         <div className="col">
           <div className="card shadow-sm">
-            <svg className="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="todolist.png" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+          <img width="100%" height="225" src="todolist.png" alt="" />
             <div className="card-body">
             <p className="project_title">{props.projectName3}</p>
               <p className="card-text">A website creating for maintaining your to do list digitally.</p>
