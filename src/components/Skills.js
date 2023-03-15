@@ -8,6 +8,7 @@ export default function Skills() {
         <div className='icons text-center'>
           <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="" />
           <img src="https://cdn.iconscout.com/icon/free/png-256/css-alt-3628710-3029935.png" alt="" />
+
           <img height="186px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="" />
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/180px-Bootstrap_logo.svg.png" alt="" />
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="" />

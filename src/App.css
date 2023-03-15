@@ -131,8 +131,7 @@
 }
 
 #skills_section .icons img{
-  /* height: 160px; */
-  width: 223px;
+  height: 160px;
   padding: 3% 5%;
   margin: 2% 1%;
 }
