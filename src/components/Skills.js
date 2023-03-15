@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Skills() {
   return (
-    <div>
-        <h2 className='heading'>SKILLS</h2>
+    <div  id='skills'>
+        <h2 className='skill_heading'>SKILLS</h2>
       <div className="container icons text-center" id='skills_section'>
         <div className='icons text-center'>
           <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="" />

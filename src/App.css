@@ -24,7 +24,7 @@
   background-color: #f2f2f2;
   position: sticky;
   top: 0;
-  z-index: 1;
+  z-index: 2;
 }
 
 #nav_bar::before {
@@ -121,7 +121,7 @@
   /* ############################################################################### */
 /* Skills section design  */
 
-.heading{
+.skill_heading{
   display: flex;
   justify-content: center;
   text-align: center;
@@ -141,3 +141,28 @@
   transform: scale(1.2);
 }
 
+  /* ############################################################################### */
+/* Project section design  */
+
+.project_heading{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  margin-top: -2%;
+  padding: 2%;
+}
+
+.width{
+  width: 78%;
+}
+
+.project_title{
+  font-size: large;
+}
+.col:hover{
+  box-shadow: rgba(68, 67, 71, 0.205);
+  transform: scale(1.05);
+  z-index: 1;
+}

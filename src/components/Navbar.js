@@ -17,10 +17,10 @@ export default function Navbar() {
                 <a className="nav-link active"aria-current="page" href="#hero_section">Home</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Skills</a>
+                <a className="nav-link" href="#skills">Skills</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Personal Projects</a>
+                <a className="nav-link" href="#projects">Personal Projects</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">Socials</a>

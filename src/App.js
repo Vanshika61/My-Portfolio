@@ -5,6 +5,7 @@ import './responsive.css'
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import Skills from './components/Skills';
+import Project from './components/Project';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar/>
       <Hero/>
       <Skills/>
+      <Project projectName1='TextUtils' projectName2='FoodHub Restaurant' projectName3='To Do List'/>
     </>
   );
 }
