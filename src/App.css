@@ -131,7 +131,8 @@
 }
 
 #skills_section .icons img{
-  height: 160px;
+  width: 220px;
+  /* height: 160px; */
   padding: 3% 5%;
   margin: 2% 1%;
 }
@@ -165,4 +166,27 @@
   box-shadow: rgba(68, 67, 71, 0.205);
   transform: scale(1.05);
   z-index: 1;
+}
+
+  /* ############################################################################### */
+/* footer section design  */
+
+.footer1{
+  background-color: #0db5fdd4;;
+  color: black;
+}
+
+.footer2{
+  background-color: rgba(0, 0, 0, 0.2);
+  /* background-color: #00b0fb; */
+}
+
+.font{
+  font-size: 27px;
+  /* font-weight: 600; */
+  padding: 1%;
+}
+
+.font1{
+  font-size: large;
 }

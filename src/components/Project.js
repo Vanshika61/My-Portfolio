@@ -47,7 +47,7 @@ export default function Project(props) {
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
                   <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" href="https://github.com/Vanshika61/To-do-list">Source code</a></button>
-                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" href="#">Link</a></button>
+                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" href="https://github.com/Vanshika61/To-do-list">Link</a></button>
                 </div>
               </div>
             </div>

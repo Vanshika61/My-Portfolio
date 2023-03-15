@@ -23,7 +23,7 @@ export default function Navbar() {
                 <a className="nav-link" href="#projects">Personal Projects</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Socials</a>
+                <a className="nav-link" href="#footer">Socials</a>
               </li>
             </ul>
           </div>
