@@ -62,7 +62,7 @@ export default function Footer() {
             className="text-center p-3 footer2"
             // style="background-color: rgba(0, 0, 0, 0.2)"
           >
-            <a className="text-white font1" href="#nav_bar">
+            <a className="text-white font1" href="#hero_section">
               Made with ❤ by Vanshika
             </a>
           </div>

@@ -16,8 +16,8 @@ export default function Project(props) {
               <p className="card-text">This website is a utility which can be used to manipulate your text in the way you want.</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                  <button type="button" className="btn btn-sm btn-outline-secondary"> <a className="nav-link" href="https://github.com/Vanshika61/MyFirstReactApp">Source code</a> </button>
-                  <button type="button" className="btn btn-sm btn-outline-secondary"> <a className="nav-link" href="https://vanshika61.github.io/MyFirstReactApp/">Link</a> </button>
+                  <button type="button" className="btn btn-sm btn-outline-secondary"> <a className="nav-link" target="_blank" href="https://github.com/Vanshika61/MyFirstReactApp">Source code</a> </button>
+                  <button type="button" className="btn btn-sm btn-outline-secondary"> <a className="nav-link" target="_blank" href="https://vanshika61.github.io/MyFirstReactApp/">Link</a> </button>
                 </div>
               </div>
             </div>
@@ -31,8 +31,8 @@ export default function Project(props) {
               <p className="card-text">A dynamic website that allows anybody to order their favourite food.</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" href="https://github.com/Vanshika61/FoodHub-Restaurant-Website">Source code</a></button>
-                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" href="https://vanshika61.github.io/FoodHub-Restaurant-Website/">Link</a></button>
+                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" target="_blank" href="https://github.com/Vanshika61/FoodHub-Restaurant-Website">Source code</a></button>
+                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" target="_blank" href="https://vanshika61.github.io/FoodHub-Restaurant-Website/">Link</a></button>
                 </div>
               </div>
             </div>
@@ -46,8 +46,8 @@ export default function Project(props) {
               <p className="card-text">A website creating for maintaining your to do list digitally.</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" href="https://github.com/Vanshika61/To-do-list">Source code</a></button>
-                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" href="https://github.com/Vanshika61/To-do-list">Link</a></button>
+                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" target="_blank" href="https://github.com/Vanshika61/To-do-list">Source code</a></button>
+                  <button type="button" className="btn btn-sm btn-outline-secondary"><a className="nav-link" target="_blank" href="https://github.com/Vanshika61/To-do-list">Link</a></button>
                 </div>
               </div>
             </div>
